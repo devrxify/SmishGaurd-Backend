@@ -1,0 +1,4 @@
+azure-functions
+openai
+azure-ai-contentsafety
+azure-core
